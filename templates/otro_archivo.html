@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otra Página</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos_upto_400.css') }}" media="screen and (max-width: 400px)">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos_upto_768.css') }}" media="screen and (min-width: 401px) and (max-width: 768px)">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos_upto_1024.css') }}" media="screen and (min-width: 769px) and (max-width: 1024px)">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/estilos.css') }}" media="screen and (min-width: 1025px)">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/logo-ST-T.png') }}" type="image/png">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/grid.css') }}">
+</head>
+<body class="nunito-sans-700">
+    <header>
+        <div class="container-header" id="header"></div>
+    </header>
+    <main>
+        <div class="maintopmargin"></div>
+        <h1>Esta es otra página</h1>
+        <p>Contenido de otra página.</p>
+        <br>
+    </main>
+    <footer>
+        <div class="footer-nav" id="nav-footer"></div>
+        <div id="medios_pago"></div>
+        <div id="pie"></div>
+    </footer>
+    <div id="whatsapp-icon"></div>
+    <script src="{{ url_for('static', filename='js/header.js') }}"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="{{ url_for('static', filename='js/electro.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/footer.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/wa.js') }}"></script>
+</body>
+</html>

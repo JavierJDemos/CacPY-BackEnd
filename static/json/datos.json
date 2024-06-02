@@ -1,0 +1,162 @@
+[
+    {
+        "Foto": "./assets/img/Productos/1licuadora.jpg",
+        "id": 1,
+        "Nombre": "Licuadora",
+        "Marca": "Atma",
+        "Descripcion": "Jarra plastica, 1,5 lts",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/2balanza.jpg",
+        "id": 2,
+        "Nombre": "Balanza",
+        "Marca": "Aspen",
+        "Descripcion": "de cocina, digital",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/3aspiradora.jpg",
+        "id": 3,
+        "Nombre": "Aspiradora",
+        "Marca": "Daihatsu",
+        "Descripcion": "20 lts, 1200 w",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/4heladera.jpg",
+        "id": 4,
+        "Nombre": "Heladera",
+        "Marca": "Ariston",
+        "Descripcion": "Inverter, 397 lts",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/5lavarropas.jpg",
+        "id": 5,
+        "Nombre": "Lavarropas",
+        "Marca": "Candy",
+        "Descripcion": "Smart, 6 kg, 800 RPM",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/6aireacondicionado.jpg",
+        "id": 6,
+        "Nombre": "Aire acondicionado",
+        "Marca": "Alaska",
+        "Descripcion": "Split frio-calor",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/7plancha.jpg",
+        "id": 7,
+        "Nombre": "Plancha",
+        "Marca": "Smartlife",
+        "Descripcion": "2000 w, suela de ceramica",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/8maquinadecoser.jpg",
+        "id": 8,
+        "Nombre": "Maquina de coser",
+        "Marca": "Singer",
+        "Descripcion": "Pantalla LCD",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/9batidora.jpg",
+        "id": 9,
+        "Nombre": "Batidora",
+        "Marca": "Atma",
+        "Descripcion": "4 lts, 800 w",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/10Cafetera.jpg",
+        "id": 10,
+        "Nombre": "Cafetera",
+        "Marca": "Canji",
+        "Descripcion": "Multicapsula, 0.7 lts",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/11exprimidor.jpg",
+        "id": 11,
+        "Nombre": "Exprimidor",
+        "Marca": "Atma",
+        "Descripcion": "Electrico, 1 litro",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/12freidora.jpg",
+        "id": 12,
+        "Nombre": "Freidora",
+        "Marca": "Midea",
+        "Descripcion": "4 litros, 200°c",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/13multiprocesadora.jpg",
+        "id": 13,
+        "Nombre": "Multiprocesadora",
+        "Marca": "Liliana",
+        "Descripcion": "Cuchilla de acero, 2 velocidades",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/14tostadora.jpg",
+        "id": 14,
+        "Nombre": "Tostadora",
+        "Marca": "Liliana",
+        "Descripcion": "7 niveles de tostadas, 4 bocas grandes",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/15wafflera.jpg",
+        "id": 15,
+        "Nombre": "Fabricadora de waffles",
+        "Marca": "Peabody",
+        "Descripcion": "1000 w de potencia, 5 porciones",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/16helados.jpg",
+        "id": 16,
+        "Nombre": "Fabricadora de helados",
+        "Marca": "Yelmo",
+        "Descripcion": "Soportes anti-deslizantes, 1,5 lts",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/17licuadorademano.jpg",
+        "id": 17,
+        "Nombre": "Licuadora de mano",
+        "Marca": "Peabody",
+        "Descripcion": "600 w, motor silencioso",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/18calefactor.jpg",
+        "id": 18,
+        "Nombre": "Calefactor",
+        "Marca": "Coppens",
+        "Descripcion": "Tiraje TBU, calorias 2500",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/19lavavajillas.jpg",
+        "id": 19,
+        "Nombre": "Lavavajillas",
+        "Marca": "Drean",
+        "Descripcion": "Lavado programables 1-23 hs, digital",
+        "Precio": 400
+    },
+    {
+        "Foto": "./assets/img/Productos/20secarropas.jpg",
+        "id": 20,
+        "Nombre": "Secarropas",
+        "Marca": "Kohinor",
+        "Descripcion": "Tambor de acero inoxidable, capacidad 5,5 lts",
+        "Precio": 400
+    }
+]
